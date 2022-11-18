@@ -44,7 +44,12 @@ Ex: cada especialista tem uma visão sobre o mesmo elemento
 
 - Processos são essenciais para sistematizar o desenvolvimento
 
+## O grande desafio
+
 Escreva uma vez, rode em qualquer lugar 
 
-## Objetivos do Curso
+<img src=".assets/modelo3.JPG">
+
+Modeling Through the Ages - https://www.youtube.com/watch?v=dbG3FhdE-Ss
+
 
