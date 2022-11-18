@@ -24,3 +24,27 @@
 ### Múltiplas visões: controle da complexidade
 
 Ex: cada especialista tem uma visão sobre o mesmo elemento
+
+
+## Desenvolvimento baseado em modelos
+
+- A principal motivação é aumentar a rodutividade:
+
+  - Independência de tecnologia
+
+  - Reutilização
+
+  - Automação
+
+- Maior nível de abstração
+
+  - Foco no modelo, não no código
+
+  - “O modelo é o código ...”
+
+- Processos são essenciais para sistematizar o desenvolvimento
+
+Escreva uma vez, rode em qualquer lugar 
+
+## Objetivos do Curso
+
